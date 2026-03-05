@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hybrid Cipher Encryption System
 
 A premium, multi-stage encryption pipeline featuring classic cryptographic algorithms and real-time security analytics.
@@ -24,3 +25,6 @@ A premium, multi-stage encryption pipeline featuring classic cryptographic algor
 - Built with **React** and **Vite**.
 - Custom CSS design system (Vanilla CSS).
 - Logic engines implemented in pure JavaScript for performance.
+=======
+# Hybrid_cipher
+>>>>>>> 03cb6d97bebd49e88d3db474648469bb51435b46
